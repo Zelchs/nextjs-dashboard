@@ -18,6 +18,8 @@ Credentials:
 - Email: user@nextmail.com
 - Password: 123456
 
+* You will receive google pasword warning. For this project, password is stored as plain text.
+
 **Installation:**
 To get started with nextjs-dashboard, follow these steps:
 
