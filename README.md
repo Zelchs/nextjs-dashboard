@@ -11,7 +11,12 @@ nextjs-dashboard is a Next.js boilerplate project that utilizes the popular open
 - Easy customization and extensibility
 
 **Deployment:**
-A live version of the nextjs-dashboard project is already deployed and accessible at the following link: [https://nextjs-sample-zeta-nine.vercel.app/dashboard](https://nextjs-sample-zeta-nine.vercel.app/dashboard). Feel free to visit the deployed version to explore the functionality and user interface.
+A live version of the nextjs-dashboard project is already deployed and accessible at the following link: [https://nextjs-sample-zeta-nine.vercel.app/](https://nextjs-sample-zeta-nine.vercel.app/). Feel free to visit the deployed version to explore the functionality and user interface.
+
+Credentials:
+
+- Email: user@nextmail.com
+- Password: 123456
 
 **Installation:**
 To get started with nextjs-dashboard, follow these steps:
